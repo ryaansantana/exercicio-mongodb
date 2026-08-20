@@ -1,4 +1,4 @@
-# Atlas-MongoDB
+# MongoDB
 
 Repositório com atividades práticas e exercícios de **NoSQL (MongoDB)** do curso técnico de Desenvolvimento de Sistemas na Etec.
 
